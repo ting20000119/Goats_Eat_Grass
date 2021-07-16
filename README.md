@@ -11,3 +11,10 @@ Goats also age (become older). When a goat is born, it is zero days old. It then
 The behavior of grass is simpler. Grass never moves and doesn’t eat. Grass starts out with an age of zero and grows one day older with each pass. When a blade of grass reaches 6 days, it dies (disappears). Grass can sprout new grass between the age of 3 and 5 inclusively. Like goats, a mommy grass picks a random direction and generates a baby grass at that neighboring cell if it is empty. If it fails, it does not do another attempt. 
 
 
+![image](https://github.com/ting20000119/Goats_Eat_Grass/blob/main/img/demo1.png)
+
+![image](https://github.com/ting20000119/Goats_Eat_Grass/blob/main/img/demo2.png)
+
+![image](https://github.com/ting20000119/Goats_Eat_Grass/blob/main/img/demo3.png)
+
+![image](https://github.com/ting20000119/Goats_Eat_Grass/blob/main/img/demo4.png)
